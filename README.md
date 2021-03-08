@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-	<a href="https://github.com/arthurtuio"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://github.com/arthurtuio"><img src="imgs/Octicons-mark-github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/tuiohdell"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/arthurdellantonia"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
