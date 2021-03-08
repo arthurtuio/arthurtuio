@@ -22,6 +22,8 @@
 </table>
 </center>
 
+Made using https://github.com/anuraghazra/github-readme-stats
+
 <!-- <p align="center">
 	<a href="https://github.com/arthurtuio"><img src="imgs/Octicons-mark-github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/tuiohdell"><img src="imgs/twitter.svg" alt="Twitter"></a>
