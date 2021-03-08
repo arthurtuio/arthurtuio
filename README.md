@@ -1,10 +1,32 @@
-### Hi there 👋
+### Welcome to my internet space 👋
 
-<p align="center">
+## My main Repos ##
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin?username=arthurtuio&repo=streamlit-heroku-python-br2020&hide=html&layout=compact&theme=dracula" /></td>
+		<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin?username=arthurtuio&repo=arthurtuio_webpage&hide=html&layout=compact&theme=dracula" /></td>
+    </tr>
+</table>
+</center>
+
+## Some Statistics ##
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtuio&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=arthurtuio&theme=dracula"/></td>
+		<!-- <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=arthurtuio&theme=dracula"/></td> -->
+    </tr>
+</table>
+</center>
+
+<!-- <p align="center">
 	<a href="https://github.com/arthurtuio"><img src="imgs/Octicons-mark-github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/tuiohdell"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/arthurdellantonia"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
+</p> -->
 
 
 <!--
